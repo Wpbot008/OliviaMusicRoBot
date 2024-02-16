@@ -1,4 +1,4 @@
-# 𝗢𝗹𝗶𝘃𝗶𝗮𝘅𝗠𝘂𝘀𝗶𝗰
+# LUIS ✘ MUSIC
 POWERFUL MUSIC BOT
 
 ━━━━━━━━━━━━━━━━━━━━
