@@ -4,14 +4,14 @@ POWERFUL MUSIC BOT
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ᴏʟɪᴠɪᴀ ✘ ᴍᴜsɪᴄ 」──
+    ──𝐋𝐔𝐈𝐒 ✘ 𝐌𝐔𝐒𝐈𝐂──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/1f070ea3147e2a3ef44e4.jpg">
+  <img src="https://graph.org/file/7154ff8b7d6ab9f343f1e.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘ ᴍᴜsɪᴄ](https://t.me/OliviaMusicRoBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [LUIS ✘ MUSIC](https://t.me/BN_Luis)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -37,7 +37,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SaeedGoraya/OliviaMusicRoBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Wpbot008/OliviaMusicRoBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
 <summary><h3>
