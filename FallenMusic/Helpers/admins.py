@@ -73,7 +73,7 @@ def admin_check_cb(func: Callable) -> Callable:
             return
         if check.status not in [ChatMemberStatus.OWNER, ChatMemberStatus.ADMINISTRATOR]:
             return await query.answer(
-                "» ʏᴏᴜ'ʀᴇ ɴᴏᴛ ᴀɴ ᴀᴅᴍɪɴ ʙᴀʙʏ, ᴘʟᴇᴀsᴇ sᴛᴀʏ ɪɴ ʏᴏᴜʀ ʟɪᴍɪᴛs.",
+                "BKL YOU'RE NOT ADMIN.",
                 show_alert=True,
             )
 
